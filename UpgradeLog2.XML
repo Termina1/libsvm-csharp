@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SVM">
+</Property><Property Name="Solution File" Value="C:\Users\Slava\Downloads\svm_source\svm_source\SVM\SVM.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Slava\Downloads\svm_source\svm_source\SVM\SVM.suo">
+</Property><Property Name="Date" Value="11 марта 2012 г.">
+</Property><Property Name="Time" Value="23:24">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SVM.sln" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\SVM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SVM.suo" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\SVM.suo">
+</Event><Event ErrorLevel="0" Project="SVM" Source="SVM.csproj" Description="Project file successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\SVM.csproj">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Cache.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Cache.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="IRangeTransform.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\IRangeTransform.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Kernel.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Kernel.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="ParameterSelection.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\ParameterSelection.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Model.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Model.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Node.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Node.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Parameter.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Parameter.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Prediction.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Prediction.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Problem.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Problem.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="RangeTransform.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\RangeTransform.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="GaussianTransform.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\GaussianTransform.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Scaling.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Scaling.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Solver.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Solver.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="PerformanceEvaluator.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\PerformanceEvaluator.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="PrecomputedKernel.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\PrecomputedKernel.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="SVMExtensions.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\SVMExtensions.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="TemporaryCulture.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\TemporaryCulture.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="Training.cs" Description="File successfully backed up as C:\Users\Slava\Downloads\svm_source\svm_source\SVM\Backup\Training.cs">
+</Event><Event ErrorLevel="0" Project="SVM" Source="SVM.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SVM" Source="SVM.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SVM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SVM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SVM" Source="SVM.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
